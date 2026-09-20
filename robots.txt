@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://image-to-stl.github.io/sitemap.xml
